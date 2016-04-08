@@ -1,0 +1,10 @@
+# Site settings
+title: Get FiOS
+tag_text: Get FiOS
+description: Simple steps to take to get FiOS
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
