@@ -3,15 +3,11 @@ layout: default
 ---
 
 [Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
+Getting FiOS installed in NYC is often an unnecessarily complex undertaking. Lets make it easier by sharing info.
 
-<iframe src="https://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
-  allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
+## Actions
 
-Looking for a more standard Jekyll theme? Try out [Shiori](http://github.com/ellekasai/shiori) theme, which has Bootstrap integration.
-
-## Solo is useful if...
-
-* You want to create an "about me" page from a single markdown file and host it under a custom domain name.
+* Direct link to order FiOS - [Order FiOS](http://fios.verizon.com/fios-coverage.html).
 * You want to create a single-page website that's mostly text, like [Know Your Company](https://knowyourcompany.com/).
 * You want to share a single markdown file and tried GitHub Gist ([example](https://gist.github.com/dypsilon/5819504)), but would like something nicer-looking.
 * You want something like GitHub's [automatic page generator](http://pages.github.com/) for a non-code repository.
