@@ -6,7 +6,7 @@ Getting FiOS installed in NYC is often an unnecessarily complex undertaking. Let
 
 ## Actions
 
-* Direct link to order FiOS - [Order FiOS](http://fios.verizon.com/fios-coverage.html).
+* Direct link to [Order FiOS](http://fios.verizon.com/fios-coverage.html).
 * You want to create a single-page website that's mostly text, like [Know Your Company](https://knowyourcompany.com/).
 * You want to share a single markdown file and tried GitHub Gist ([example](https://gist.github.com/dypsilon/5819504)), but would like something nicer-looking.
 * You want something like GitHub's [automatic page generator](http://pages.github.com/) for a non-code repository.
@@ -47,11 +47,7 @@ Instead of downloading, you can [fork Solo](https://github.com/chibicode/solo/fo
 
 ## Author
 
-Shu Uesugi ([Twitter](http://twitter.com/chibicode)/[GitHub](http://github.com/chibicode)/[G+](https://plus.google.com/110325199858284431541?rel=author)).
+Matthew Kime ([Twitter](http://twitter.com/matt_kime)/[GitHub](http://github.com/mattkime).
 
 ![Shu Uesugi](https://www.gravatar.com/avatar/b868d84bbe2ed30ec45c9253e1c1cefe.jpg?s=200)
-
-### License
-
-[MIT License](http://chibicode.mit-license.org/)
 
