@@ -47,7 +47,7 @@ Instead of downloading, you can [fork Solo](https://github.com/chibicode/solo/fo
 
 ## Author
 
-Matthew Kime ([Twitter](http://twitter.com/matt_kime)/[GitHub](http://github.com/mattkime).
+Matthew Kime ([Twitter](http://twitter.com/matt_kime)/[GitHub](http://github.com/mattkime)).
 
 ![Shu Uesugi](https://www.gravatar.com/avatar/b868d84bbe2ed30ec45c9253e1c1cefe.jpg?s=200)
 
