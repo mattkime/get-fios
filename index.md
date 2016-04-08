@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Getting FiOS installed in NYC is often an unnecessarily complex undertaking. Lets make it easier by sharing info.
+FiOS installion in NYC is often unnecessarily complex. Lets reduce the barriers.
 
 ## Actions
 
