@@ -6,7 +6,7 @@ FiOS installion in NYC is often unnecessarily complex. Lets reduce the barriers.
 
 ## Actions
 
-* Direct link to [Order FiOS](http://fios.verizon.com/fios-coverage.html).
+* Direct link to [Order FiOS](http://fios.verizon.com/fios-coverage.html) - A necessaery step, and one that leaves the vast majority of nycers disappointed.
 * You want to create a single-page website that's mostly text, like [Know Your Company](https://knowyourcompany.com/).
 * You want to share a single markdown file and tried GitHub Gist ([example](https://gist.github.com/dypsilon/5819504)), but would like something nicer-looking.
 * You want something like GitHub's [automatic page generator](http://pages.github.com/) for a non-code repository.
